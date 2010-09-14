@@ -1,12 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>warszawa.dp.pl</groupId>
+    <groupId>pl.warszawa.dp</groupId>
     <artifactId>tenniskata</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>TennisKata</name>
+    <description>Tennis Kata made on Warszawa-DP Study Group meetings</description>
+    <url>http://groups.google.com/group/warszawa-dp/</url>
 
     <dependencies>
 
